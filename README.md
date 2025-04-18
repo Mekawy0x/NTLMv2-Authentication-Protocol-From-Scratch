@@ -25,7 +25,7 @@ A secure client-server authentication system implementing NTLM (NT LAN Manager) 
 
 ### Setup 
 1. Clone the repository:
-> git clone https://github.com/AhmedAdel82/NTLM.git
+`git clone https://github.com/AhmedAdel82/NTLM.git` 
 > cd NTLM
 
 2. Install dependencies:
