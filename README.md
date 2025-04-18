@@ -31,25 +31,31 @@ cd NTLM
 ```
 
 3. Install dependencies:
-> pip install -r requirements.txt
+```pip install -r requirements.txt```
 
 3. Configure the server (edit config.py):
+```
 SERVER_HOST = 'localhost'  # Server IP address
 SERVER_PORT = 5000         # Server port
+```
 
 4. Run The Server:
-> python server.py
+```python server.py```
 5. Run The Client Application:
-> python client.py
+```
+python client.py
 > help
 > login
 > Enter Username
 > Enter Password
-Then Go to Server Terminal You will see the TOTP Secret For The System User Admin
+```
+6. Then Go to Server Terminal You will see the TOTP Secret For The System User Admin
 To GET TOTP Code Consists of 6 digits
-Open Another Terminal
-> python totp_generator -w [TOTP Secret]
-> python GUI.py
+7. Open Another Terminal
+```
+python totp_generator -w [TOTP Secret]
+python GUI.py
+```
 
 
 ## Usage
