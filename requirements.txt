@@ -1,0 +1,14 @@
+PyQt5==5.15.9
+
+
+pyotp==2.9.0
+ntlm-auth==1.5.0
+bcrypt==4.1.2
+cryptography==42.0.4
+
+
+pyopenssl==24.0.0
+requests-ntlm==1.2.0
+
+
+mysql.connector
