@@ -31,7 +31,7 @@ cd NTLM
 ```
 
 3. Install dependencies:
-```pip install -r requirements.txt```
+```pip3 install -r requirements.txt```
 
 3. Configure the server (edit config.py):
 ```
