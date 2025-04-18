@@ -8,6 +8,6 @@ A secure client-server authentication system implementing NTLM (NT LAN Manager) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ## Authentication Protocol
-![NTLM v2](https://img.shields.io/badge/NTLMv2-4479A1.svg?style=for-the-badge&logo=NTLM&logoColor=Black)
+![NTLM v2](https://img.shields.io/badge/NTLMv2-F57C00.svg?style=for-the-badge&logo=NTLM&logoColor=Black)
 
 
